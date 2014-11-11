@@ -1,0 +1,16 @@
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\bin\Debug\MovieDB.exe.config
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\bin\Debug\MovieDB.exe
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\bin\Debug\MovieDB.pdb
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB.csprojResolveAssemblyReference.cache
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MainWindow.baml
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MainWindow.g.cs
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\App.g.cs
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB_MarkupCompile.cache
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB.g.resources
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB.Properties.Resources.resources
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB.csproj.GenerateResource.Cache
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\Landtved\Documents\csAda3\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
+C:\Users\Landtved\Documents\Visual Studio 2012\Projects\MovieDB\MovieDB\bin\Debug\MovieDB.exe.config
+C:\Users\Landtved\Documents\Visual Studio 2012\Projects\MovieDB\MovieDB\obj\Debug\MovieDB.exe
+C:\Users\Landtved\Documents\Visual Studio 2012\Projects\MovieDB\MovieDB\obj\Debug\MovieDB.pdb
